@@ -1,0 +1,19 @@
+{
+    "name": "nologo/sms",
+    "description": "Simple bulk sms package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max-Oti Favour",
+            "email": "maxotif@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nologo\\SMS\\": "src/"
+        }
+    }
+}
